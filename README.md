@@ -34,3 +34,4 @@ Instalador web autônomo para o PlayStation 4 com GoldHEN. Permite que qualquer 
 4. Clique em **Deploy Web Service**.
 
 Assim que o deploy finalizar, basta abrir o link gerado pelo Render no navegador do PS4!
+
