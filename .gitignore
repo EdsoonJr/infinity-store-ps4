@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+payload_base_b64.txt
+payload_b64.txt
+payload_code.js
+sandro_payload.bin
+construir_site.py
+gerar_index_final.py
+gerar_payload.py
